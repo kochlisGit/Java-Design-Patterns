@@ -1,5 +1,7 @@
 # Java-Design-Patterns
 
+This is an implementation of Java design patterns that add readability, extensibility & low coupling in the code, according to this book: https://www.oreilly.com/library/view/design-patterns-elements/0201633612/
+
 List of patterns included in the repository:
 
 1. Factory
